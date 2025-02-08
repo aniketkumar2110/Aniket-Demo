@@ -1,2 +1,3 @@
 # Aniket-Demo
-This is first repository on github
+This is my first Git repository on github
+Author Aniket
